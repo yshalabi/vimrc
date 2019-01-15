@@ -16,6 +16,7 @@ from os import path
 
 #--- Globals ----------------------------------------------
 PLUGINS = """
+vim-clang-format https://github.com/rhysd/vim-clang-format.git
 auto-pairs https://github.com/jiangmiao/auto-pairs
 ale https://github.com/w0rp/ale
 vim-yankstack https://github.com/maxbrunsfeld/vim-yankstack
